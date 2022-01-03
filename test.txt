@@ -1,1 +1,2 @@
 Hello world
+My file is ready
